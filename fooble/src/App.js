@@ -1,5 +1,5 @@
 import React from 'react';
-// import './App.css';
+
 
 import Navbar from './landingPageComponent/navbar/navbar';
 import Body from './landingPageComponent/body/body';

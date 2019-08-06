@@ -6,13 +6,15 @@ class body extends Component {
     render() {
         return (
             <div className = 'body'>
-                <h1>TheFooBle.in</h1>
-                <input
-            type="text"
-            ref="search"
-            placeholder="Search Bar"
-          />
+                    <h1>TheFooBle.in</h1>
+                            <input
+                        type="text"
+                        ref="search"
+                        placeholder="Search Bar"
+                    />
+
             </div>
+
         )
     }
 }
